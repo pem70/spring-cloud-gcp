@@ -15,7 +15,7 @@
 
     <properties>
         <spring-cloud-config.version>4.1.7</spring-cloud-config.version>
-        <spring-cloud-starter-bootstrap.version>4.1.6</spring-cloud-starter-bootstrap.version>
+        <spring-cloud-starter-bootstrap.version>4.3.0</spring-cloud-starter-bootstrap.version>
     </properties>
 
     <!-- The Spring Framework on Google Cloud BOM will manage spring-cloud-gcp version numbers for you. -->
