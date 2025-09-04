@@ -14,7 +14,7 @@
     <name>Spring Framework on Google Cloud Code Sample - Pub/Sub Bus Configuration Management</name>
 
     <properties>
-        <spring-cloud-config.version>4.1.7</spring-cloud-config.version>
+        <spring-cloud-config.version>4.3.0</spring-cloud-config.version>
         <spring-cloud-starter-bootstrap.version>4.1.6</spring-cloud-starter-bootstrap.version>
     </properties>
 
